@@ -1,5 +1,3 @@
-This C++ source code is published under AGPL v3 license.
-
 # Connect4の戦略ラダー自動構築プログラム
 
 盤面サイズと探索する手の深さを入力することで、
@@ -11,3 +9,5 @@ resultsフォルダに実際に6×6,7×6,8×6の盤面サイズでシミュレ�
 
 このプログラムはPascalPons氏のConnect4を基にして作成されています。
 https://github.com/PascalPons/connect4
+
+This C++ source code is published under AGPL v3 license.
