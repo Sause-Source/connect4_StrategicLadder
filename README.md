@@ -1,6 +1,6 @@
 This C++ source code is published under AGPL v3 license.
 
-これはConnect4の戦略ラダー自動構築プログラムです。
+# Connect4の戦略ラダー自動構築プログラム
 
 盤面サイズと探索する手の深さを入力することで、
 Connect4の戦略ラダーを構築、ゲームの深さ(depth)を自動算出できます。
